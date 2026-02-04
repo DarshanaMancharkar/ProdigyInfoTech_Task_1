@@ -27,7 +27,7 @@ For this task, a World Development Indicators Dataset was used to analyze and vi
 
 
 ## 📂 Project Structure
-Prodigy-Infotech-Task-1/
+Prodigy-Infotech-Task-1
 │
 ├── Task_1.ipynb
 ├── population_task_1.csv
@@ -41,7 +41,7 @@ Histograms and bar charts provide an effective way to understand data distributi
 
 
 ## 👤 Author
-Darshana Mancharkar/
+Darshana Mancharkar
 Data Science Intern – Prodigy Infotech
 
 
