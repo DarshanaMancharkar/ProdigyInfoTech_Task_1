@@ -31,8 +31,8 @@ Prodigy-Infotech-Task-1
 │
 ├── Task_1.ipynb
 ├── population_task_1.csv
-├── population_distribution_1975.png
-├── top10_population_1975.png
+├── Pupulation_distribution.png
+├── Top10_Population.png
 └── README.md
 
 ## 🚀 Conclusion
